@@ -86,5 +86,6 @@ section header{
   padding:20px;
   margin: 1px auto 22px;
   overflow: scroll;
+  overflow-y: hidden;
   white-space: nowrap;
 }
